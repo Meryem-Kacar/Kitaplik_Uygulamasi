@@ -1,0 +1,8 @@
+C:\Users\merye\OneDrive\Masaüstü\C#\kitaplik_uygulamasi\kitaplik_uygulamasi\bin\Debug\kitaplik_uygulamasi.exe.config
+C:\Users\merye\OneDrive\Masaüstü\C#\kitaplik_uygulamasi\kitaplik_uygulamasi\bin\Debug\kitaplik_uygulamasi.exe
+C:\Users\merye\OneDrive\Masaüstü\C#\kitaplik_uygulamasi\kitaplik_uygulamasi\bin\Debug\kitaplik_uygulamasi.pdb
+C:\Users\merye\OneDrive\Masaüstü\C#\kitaplik_uygulamasi\kitaplik_uygulamasi\obj\Debug\kitaplik_uygulamasi.csproj.AssemblyReference.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\kitaplik_uygulamasi\kitaplik_uygulamasi\obj\Debug\kitaplik_uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\kitaplik_uygulamasi\kitaplik_uygulamasi\obj\Debug\kitaplik_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\kitaplik_uygulamasi\kitaplik_uygulamasi\obj\Debug\kitaplik_uygulamasi.exe
+C:\Users\merye\OneDrive\Masaüstü\C#\kitaplik_uygulamasi\kitaplik_uygulamasi\obj\Debug\kitaplik_uygulamasi.pdb
